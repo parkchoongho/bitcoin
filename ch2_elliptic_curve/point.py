@@ -38,5 +38,4 @@ class Point:
             return self.__class__(x, y, self.a, self.b)
 
 
-
 print(Point(-1, -1, 5, 7) == Point(-1, -1, 5, 7))
